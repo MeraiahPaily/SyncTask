@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "603638544269",
+    "project_id": "synctask-2fea5",
+    "storage_bucket": "synctask-2fea5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603638544269:android:58d8702aa3b4b7cce52fc4",
+        "android_client_info": {
+          "package_name": "com.example.synctask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603638544269-2qhj5a3aiq3spkvt0okj3v6ftvkj38ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.synctask",
+            "certificate_hash": "c75403d813de0cd646964279d893f4c69da347a2"
+          }
+        },
+        {
+          "client_id": "603638544269-jgbuu5t8qsou8bnudm8n46vo5tloobr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.synctask",
+            "certificate_hash": "ac5011cbd867502308d779139b620f93b8e027ec"
+          }
+        },
+        {
+          "client_id": "603638544269-kq486ad91tff5f1u5nmjtvp5iudldc0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "REMOVED"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603638544269-kq486ad91tff5f1u5nmjtvp5iudldc0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
